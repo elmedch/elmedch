@@ -2,7 +2,7 @@
 ###  Hi There 👋, I am [Mohamed Chakib]
 
 
-Software engineer and AI researcher with practical experience in full-stack web application development and automation using Node.js, RoR, React.js, SpannerDB, PostgreSQL, and MongoDB. My passion is building products that benefit users!
+Software engineer and AI researcher with practical experience in full-stack web application development and automation . My passion is building products that benefit users!
 
 * Backend development: Node.js, Supabase
 
