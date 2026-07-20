@@ -12,7 +12,7 @@ Software engineer and AI researcher with practical experience in full-stack web 
 
 ## Some facts: 
 
-- 🔭 I’m F-CEO of WBNFY CORP
+- 🔭 I’m F-CEO of WBNFY AGENCY
 - 👯 I strive to develop myself, build my future, and keep pace with civilizational progress, especially in the field of Ai.
 - 📫 How to reach me: elmedch@icloud.com
 
